@@ -1,2 +1,4 @@
 # git-test
-testing git
+
+//testing git//
+<'hello, git'>
